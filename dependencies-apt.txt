@@ -1,0 +1,13 @@
+g++ 
+freeglut3-dev 
+build-essential 
+libx11-dev 
+libxmu-dev 
+libxi-dev 
+libglu1-mesa 
+libglu1-mesa-dev
+wget
+unzip
+git
+
+python3

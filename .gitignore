@@ -1,0 +1,4 @@
+docs/build
+*pyc
+packages/tensorflow_src
+packages/tf_test/demo/
